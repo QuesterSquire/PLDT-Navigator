@@ -1,0 +1,49 @@
+.tofrom
+{
+	background-color: #232323;
+	color: white;
+	text-align: center;
+	display: flex;
+
+}
+
+.tofrom h5{
+	padding:  10px;
+}
+label{
+display:inline-block;
+width:200px;
+margin-right:10px;
+text-align:center;
+}
+
+input{
+border-radius: 20px;
+}
+
+fieldset{
+border:none;
+width:500px;
+margin:0px auto;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #b70742;
+  border-width: 2px;
+padding-bottom: 20px;
+margin-bottom: 12px;
+
+}
+label{
+	font-weight: bold;
+	font-size: 20px;
+}
+.areabtn{
+	padding-left: 20px;
+	padding-bottom: 10px;
+	background-color: #232323;
+
+}
